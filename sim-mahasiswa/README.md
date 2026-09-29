@@ -25,6 +25,18 @@
 
 ---
 
+## Screenshots
+
+![Screenshot 1](docs/Screenshot%20(686).png)
+![Screenshot 2](docs/Screenshot%20(687).png)
+![Screenshot 3](docs/Screenshot%20(688).png)
+![Screenshot 4](docs/Screenshot%20(689).png)
+![Screenshot 5](docs/Screenshot%20(690).png)
+![Screenshot 6](docs/Screenshot%20(691).png)
+![Screenshot 7](docs/Screenshot%20(693).png)
+
+---
+
 ## Prasyarat
 
 - Python 3.10+
