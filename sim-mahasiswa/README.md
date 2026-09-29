@@ -8,9 +8,9 @@
 
 | Field  | Keterangan           |
 |--------|----------------------|
-| Nama   | [Nama Lengkap Anda]  |
-| NIM    | [NIM Anda]           |
-| Kelas  | [Kelas Praktikum]    |
+| Nama   | [Muhammad Dzikri Sagara]  |
+| NIM    | [20241320004]           |
+| Kelas  | [A1]    |
 
 ---
 
